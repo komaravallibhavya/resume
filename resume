@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="authour" content="komaravalli bhavya">
+    <meta name="description" content="this page contains my stuff">
+
+    <title>shelton</title>
+    <link rel="icon" href="html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html{
+            font-size: 22px;
+        }
+        body{
+            background-color:bisque;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+   <!--hi-->
+    <h1>hello!</h1>
+    <P>
+        I am K.Bhavya an undergraduate student at <BR>
+            National Institute of Technology Warangal
+    </P>
+    
+    <hr>
+    <h1>EDUCATION</h1>
+    <p>
+            <strong><p>B.Tech in Electronics and Communication Engineering <br>
+            </strong>        NATIONAL INSTITUTE OF TEHNOLOGY WARANGAL<br> 
+        WARANGAL,INDIA
+    </p>
+             
+    
+    <p>
+       <strong> INTERMEDIATE EDUCATION </strong><BR>
+         Tirumala junior college ,Rajahmundry
+        <br>and i have secured 984/1000 
+    </p>
+    <p>
+         <STRONG>
+            SECONDARY EDUCATION<BR>
+         </STRONG> Sri Chaitanya Techno school ,Rajahmundry
+         <br>
+         i have secured 10 GPA  
+    </p>
+    <hr>
+    <h2>
+        EXPERIENCE
+    </h2>
+    <STRONG>
+        Robotics Club National Institute of Technology
+    </STRONG>
+    <p>
+        serving the club as an exective member and having great exposer<br> in robotics 
+        along with participation in projects 
+    </p>
+    <p>
+       actively  participated in the events conducted by NSS, YOUTH RED CROSS,Photography club
+    </p>
+<HR>
+<h4>
+    SKILLS
+</h4>
+<p>
+    vivado,Html,tinker cad,lt spics,c++
+</p><hr>
+
+    <H3>
+        CONTACT DETAILS>
+    </H3>
+    <ul>
+        <li>
+            contact me at <a href="mailto:komaravallibhavya@gmail.com"> my email address</a>
+        </li>
+        <li>
+            Dial <a href=""tel:+91 7416351210>my mobile number</a>
+        </li>
+    </ul>
+
+
+
+</body>
+</html><hr>
+<h5>
+    photographs
+</h5>
+<img src="img/" alt="web development" width="400">
+<img src="img/campus.jpeg" alt="web development" width="400"><br>
+&lt;&lt;&lt;&copy;<a href="about.html"> Komaravalli bhavya </a>&gt;&gt;&gt;
